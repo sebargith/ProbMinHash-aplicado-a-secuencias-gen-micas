@@ -25,6 +25,8 @@ La implementación toma como entrada secuencias genómicas (archivos `.fna`) y e
 
 ## Instrucciones de Compilación
 
+Los archivos para este proyecto se encuentran en el directorio "c++" 
+
 1. Clonar el repositorio
 2. Compilar "test_minhash.cpp"
    g++ -o test_minhash test_minhash.cpp
